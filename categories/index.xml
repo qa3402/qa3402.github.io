@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 部落格測試</title>
-    <link>https://zhienw.com/categories/</link>
+    <link>https://qa3402.github.io/categories/</link>
     <description>Recent content in Categories on 部落格測試</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 16 Oct 2025 10:07:47 +0800</lastBuildDate>
-    <atom:link href="https://zhienw.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://qa3402.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go Language</title>
-      <link>https://zhienw.com/categories/go-language/</link>
+      <link>https://qa3402.github.io/categories/go-language/</link>
       <pubDate>Thu, 16 Oct 2025 10:07:47 +0800</pubDate>
-      <guid>https://zhienw.com/categories/go-language/</guid>
+      <guid>https://qa3402.github.io/categories/go-language/</guid>
       <description></description>
     </item>
   </channel>
