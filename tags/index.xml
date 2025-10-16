@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 部落格測試</title>
+    <link>https://zhienw.com/tags/</link>
+    <description>Recent content in Tags on 部落格測試</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 16 Oct 2025 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://zhienw.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game</title>
+      <link>https://zhienw.com/tags/game/</link>
+      <pubDate>Thu, 16 Oct 2025 10:07:47 +0800</pubDate>
+      <guid>https://zhienw.com/tags/game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTML</title>
+      <link>https://zhienw.com/tags/html/</link>
+      <pubDate>Thu, 16 Oct 2025 10:07:47 +0800</pubDate>
+      <guid>https://zhienw.com/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New</title>
+      <link>https://zhienw.com/tags/new/</link>
+      <pubDate>Thu, 16 Oct 2025 10:07:47 +0800</pubDate>
+      <guid>https://zhienw.com/tags/new/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photos</title>
+      <link>https://zhienw.com/tags/photos/</link>
+      <pubDate>Thu, 16 Oct 2025 10:07:47 +0800</pubDate>
+      <guid>https://zhienw.com/tags/photos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://zhienw.com/tags/python/</link>
+      <pubDate>Thu, 16 Oct 2025 10:07:47 +0800</pubDate>
+      <guid>https://zhienw.com/tags/python/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

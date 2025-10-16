@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go Language on 部落格測試</title>
+    <link>https://zhienw.com/categories/go-language/</link>
+    <description>Recent content in Go Language on 部落格測試</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 16 Oct 2025 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://zhienw.com/categories/go-language/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>標題</title>
+      <link>https://zhienw.com/blog/test/</link>
+      <pubDate>Thu, 16 Oct 2025 10:07:47 +0800</pubDate>
+      <guid>https://zhienw.com/blog/test/</guid>
+      <description>&lt;h1 id=&#34;test&#34;&gt;=TEST&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Tables&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Are&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;Cool&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;col 3 is&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;right-aligned&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;$1600&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;col 2 is&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;centered&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;$12&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;zebra stripes&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;are neat&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;$1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/0RKpf3rK57I?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://zhienw.com/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://zhienw.com/blog/post-13/</guid>
+      <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h5&gt;&#xA;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
